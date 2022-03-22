@@ -1,0 +1,12 @@
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\bin\Debug\net6.0\LSInvoiceManager.deps.json
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\bin\Debug\net6.0\LSInvoiceManager.dll
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\bin\Debug\net6.0\ref\LSInvoiceManager.dll
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\bin\Debug\net6.0\LSInvoiceManager.pdb
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.AssemblyInfoInputs.cache
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.AssemblyInfo.cs
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.dll
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\ref\LSInvoiceManager.dll
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.pdb
+C:\Users\MAX\Documents\Repositorios\LSInvoiceManager\obj\Debug\net6.0\LSInvoiceManager.csproj.AssemblyReference.cache
